@@ -22,7 +22,7 @@ class Solution {
             }
         }
 
-        print(grid, numRows);
+        //print(grid, numRows);
 
         return sol;
     }
