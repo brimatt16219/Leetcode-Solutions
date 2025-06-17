@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1666-make-the-string-great](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
