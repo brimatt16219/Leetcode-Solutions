@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
