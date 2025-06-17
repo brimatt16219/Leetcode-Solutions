@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0978-valid-mountain-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
