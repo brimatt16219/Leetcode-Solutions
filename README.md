@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -42,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
