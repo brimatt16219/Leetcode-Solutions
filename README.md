@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Divide and Conquer
 |  |
@@ -218,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
