@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0904-leaf-similar-trees](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Binary Tree
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
