@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2365-percentage-of-letter-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1666-make-the-string-great](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
+| [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Interactive
 |  |
 | ------- |
