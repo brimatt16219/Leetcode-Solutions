@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1954-replace-all-digits-with-characters](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
 | ------- |
