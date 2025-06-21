@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
