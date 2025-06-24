@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
