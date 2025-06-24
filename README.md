@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -338,12 +339,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Union Find
 |  |
 | ------- |
