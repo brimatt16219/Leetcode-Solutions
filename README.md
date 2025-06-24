@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0064-minimum-path-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Memoization
 |  |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -337,4 +341,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
