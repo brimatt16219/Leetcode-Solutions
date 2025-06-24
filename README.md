@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -315,4 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
