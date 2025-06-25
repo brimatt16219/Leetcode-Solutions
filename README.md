@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1666-make-the-string-great](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
