@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0978-valid-mountain-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -379,4 +384,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
