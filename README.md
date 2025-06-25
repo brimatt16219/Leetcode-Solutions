@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
