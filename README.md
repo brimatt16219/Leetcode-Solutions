@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Counting Sort
 |  |
@@ -367,4 +371,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
