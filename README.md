@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
