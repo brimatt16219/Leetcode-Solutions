@@ -14,36 +14,26 @@
  * }
  */
 class Solution {
-    static boolean[] visited;
-    static List<Integer> right = new ArrayList<Integer>();
-
     public List<Integer> rightSideView(TreeNode root) {
-        right.clear();
-        int depth = 0;
-        depth = getDepth(root);
-        // System.out.println(depth);
+        List<Integer> res = new ArrayList<>();
+        if (root == null) return res;
 
-        visited = new boolean[depth];
-        solution(root, 0);
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
 
-        return right;
-    }
+        while (!q.isEmpty()) {
+            int levelSize = q.size();
+            TreeNode right = null;
 
-    void solution(TreeNode root, int level) {
-        if (root == null) return;
-        if (visited[level] == false) {
-            // System.out.println("Adding " + root.val + " since we havent visited level " + level);
-            visited[level] = true;
-            right.add(root.val);
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode node = q.poll();
+
+                right = node;
+                if (node.left != null) q.offer(node.left);
+                if (node.right != null) q.offer(node.right);
+            }
+            res.add(right.val);
         }
-
-        solution(root.right, level + 1);
-        solution(root.left, level + 1);
-    }
-
-    int getDepth(TreeNode root) {
-        if (root == null) return 0;
-
-        return Math.max(getDepth(root.left), getDepth(root.right)) + 1;
+        return res;
     }
 }
