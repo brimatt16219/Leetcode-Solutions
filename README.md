@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0062-unique-paths) |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
