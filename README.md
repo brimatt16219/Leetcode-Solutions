@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Math
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
