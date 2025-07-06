@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
@@ -612,4 +615,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0739-daily-temperatures](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0883-car-fleet) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
