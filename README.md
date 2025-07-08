@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
@@ -498,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
