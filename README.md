@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0097-interleaving-string) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -555,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
