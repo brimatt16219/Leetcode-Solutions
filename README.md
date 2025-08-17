@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
+| [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Memoization
 |  |
