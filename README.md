@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0833-bus-routes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [0883-car-fleet](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0833-bus-routes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0833-bus-routes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
