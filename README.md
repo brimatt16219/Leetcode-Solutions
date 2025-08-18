@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -576,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0871-keys-and-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
+| [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -620,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Quickselect
 |  |
 | ------- |
