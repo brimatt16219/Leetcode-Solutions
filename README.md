@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
+| [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Prefix Sum
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2169-simple-bank-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
+| [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -700,4 +702,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Enumeration
+|  |
+| ------- |
+| [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 <!---LeetCode Topics End-->
