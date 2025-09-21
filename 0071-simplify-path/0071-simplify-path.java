@@ -5,6 +5,7 @@ class Solution {
         String[] parts = path.split("/");
 
         for (String p : parts) {
+            // System.out.println("p: " + p);
             if (p.isEmpty() || p.equals(".")) {
                 continue;
             }
