@@ -3,7 +3,7 @@ class Solution {
         int p0 = 0;
         int p2 = nums.length - 1;
         int curr = 0;
-
+        
         int temp;
         while (curr <= p2) {
             if (nums[curr] == 0) {
