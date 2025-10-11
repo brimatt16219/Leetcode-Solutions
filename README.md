@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0305-number-of-islands-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0305-number-of-islands-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0305-number-of-islands-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Design
