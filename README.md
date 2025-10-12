@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Hash Table
 |  |
 | ------- |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0871-keys-and-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Bit Manipulation
 |  |
 | ------- |
