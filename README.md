@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0305-number-of-islands-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0305-number-of-islands-ii) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -494,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -621,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0871-keys-and-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0871-keys-and-rooms) |
@@ -685,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bucket Sort
 |  |
