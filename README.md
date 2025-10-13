@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Divide and Conquer
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Memoization
 |  |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
