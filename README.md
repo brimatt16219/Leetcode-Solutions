@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0647-palindromic-substrings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
