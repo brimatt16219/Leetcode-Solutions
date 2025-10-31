@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0305-number-of-islands-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
