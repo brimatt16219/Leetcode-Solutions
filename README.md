@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1666-make-the-string-great](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
