@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0833-bus-routes) |
 | [0853-car-fleet](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
