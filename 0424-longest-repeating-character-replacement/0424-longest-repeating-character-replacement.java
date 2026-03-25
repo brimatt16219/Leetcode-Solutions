@@ -17,8 +17,9 @@ class Solution {
                     count++;
                 }
 
+                // If the window is too big, we need to shrink it by incrementing l
                 while ((r - l + 1) - count > k) {
-                    if (s.charAt(l) == c) {
+                    if (s.charAt(l) == c) { // remove the count of current c in the set if the window loses it
                         count --;
                     }
                     l++;
