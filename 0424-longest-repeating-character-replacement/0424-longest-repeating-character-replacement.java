@@ -1,25 +1,32 @@
 class Solution {
     public int characterReplacement(String s, int k) {
 
-        int[] counts = new int[26];
-
-        int left = 0;
-        int right = 0;
-        int maxFreq = 0;
-        int ans = 0;
-        
-        for (right = 0; right < s.length(); right ++ ) {
-            char r = s.charAt(right);
-            counts[r - 'A']++;
-            maxFreq = Math.max(maxFreq, counts[r - 'A']);
-            while ((right - left + 1) - maxFreq > k) {
-                char l = s.charAt(left);
-                counts[l - 'A'] --;
-                left ++;
-            }
-            ans = Math.max(ans, right - left + 1);
+        // Setup result and hash set and add all characters in s into the set
+        int res = 0;
+        HashSet<Character> set = new HashSet<>();
+        for (char c : s.toCharArray()) {
+            set.add(c);
         }
 
-        return ans;
+        // For  each character in the set, 
+        for (char c : set) {
+            int count = 0, l = 0;
+            for (int r = 0; r < s.length(); r++) {
+
+                if (s.charAt(r) == c) { // increase count
+                    count++;
+                }
+
+                while ((r - l + 1) - count > k) {
+                    if (s.charAt(l) == c) {
+                        count --;
+                    }
+                    l++;
+                }
+
+                res = Math.max(res, r - l + 1);
+            }
+        }
+        return res;
     }
 }
