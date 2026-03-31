@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Divide and Conquer
 |  |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -445,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Memoization
 |  |
@@ -542,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
@@ -789,4 +794,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
