@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
 |  |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0772-construct-quad-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -801,4 +805,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
