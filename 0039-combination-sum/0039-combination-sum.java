@@ -16,9 +16,9 @@ class Solution {
             return;
         }
 
-        subset.add(candidates[k]);
-        dfs(candidates, k, res, subset, target);
+        subset.add(candidates[k]); 
+        dfs(candidates, k, res, subset, target); // Add a repeat of the candidate
         subset.remove(subset.size() - 1);
-        dfs(candidates, k + 1, res, subset, target);
+        dfs(candidates, k + 1, res, subset, target); // Or don't add the repeat and go to the next val
     }
 }
