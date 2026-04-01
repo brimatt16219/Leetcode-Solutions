@@ -1,28 +1,19 @@
 class Solution {
-
-
-    List path;
-    List ans;
-
     public List<List<Integer>> subsets(int[] nums) {
-
-        path = new ArrayList<>();
-        ans = new ArrayList<>();
-        backtrack(nums, 0);
-
-        return ans;
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> subset = new ArrayList<>();
+        dfs(nums, 0, subset, res);
+        return res;
     }
 
-    void backtrack(int[] nums, int k) {
-
-        ans.add(new ArrayList<>(path));
-
-        for (int i = k; i < nums.length; i++) {
-            path.add(nums[i]);
-
-            backtrack(nums, i + 1);
-
-            path.remove(path.size() - 1);
-        } 
-    }
+    static void dfs(int[] nums, int k, List<Integer> subset, List<List<Integer>> res) {
+        if (k >= nums.length) {
+            res.add(new ArrayList<>(subset));
+            return;
+        }
+        subset.add(nums[k]);
+        dfs(nums, k + 1, subset, res);
+        subset.remove(subset.size() - 1);
+        dfs(nums, k + 1, subset, res);
+    } 
 }
