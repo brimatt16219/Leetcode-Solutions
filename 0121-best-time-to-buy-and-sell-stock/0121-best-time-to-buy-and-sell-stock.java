@@ -4,14 +4,14 @@ class Solution {
         int r = 1;
         int max = 0;
 
-        while (r < prices.length) {
+        while (r < prices.length - 1) {
             if (prices[r] > prices[l]) {
                 max = Math.max(max, prices[r] - prices[l]);
             }
             else {
                 l = r;
             }
-            r ++;
+            r++;
         }
         return max;
     }
