@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
 |  |
