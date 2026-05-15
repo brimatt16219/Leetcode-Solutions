@@ -12,7 +12,6 @@ class Solution {
                 heap.poll();
             }
         }
-        System.out.println(heap);
 
         int[] res = new int[k];
         for (int i = 0; i < k; i++) {
