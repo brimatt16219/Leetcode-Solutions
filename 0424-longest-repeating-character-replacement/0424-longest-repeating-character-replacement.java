@@ -1,33 +1,18 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-
-        // Setup result and hash set and add all characters in s into the set
-        int res = 0;
-        HashSet<Character> set = new HashSet<>();
-        for (char c : s.toCharArray()) {
-            set.add(c);
-        }
-
-        // For  each character in the set, 
-        for (char c : set) {
-            int count = 0, l = 0;
-            for (int r = 0; r < s.length(); r++) {
-
-                if (s.charAt(r) == c) { // increase count
-                    count++;
-                }
-
-                // If the window is too big, we need to shrink it by incrementing l
-                while ((r - l + 1) - count > k) {
-                    if (s.charAt(l) == c) { // remove the count of current c in the set if the window loses it
-                        count --;
-                    }
-                    l++;
-                }
-
-                res = Math.max(res, r - l + 1);
+        HashMap<Character, Integer> map = new HashMap<>();
+        int l = 0;
+        int max = 0;
+        int maxF = 0;
+        for (int r = 0; r < s.length(); r++) {
+            map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0) + 1);
+            maxF = Math.max(maxF, map.get(s.charAt(r)));
+            while ((r - l + 1) - maxF > k) {
+                map.put(s.charAt(l), map.get(s.charAt(l)) - 1);
+                l++;
             }
+            max = Math.max(max, r - l + 1);
         }
-        return res;
+        return max;
     }
 }
