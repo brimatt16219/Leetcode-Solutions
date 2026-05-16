@@ -1,14 +1,14 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String lower = s.toLowerCase().replaceAll("[^a-z0-9]","");
+        String lower = s.toLowerCase().replaceAll("[^a-z0-9]", "");
         return isLowerPalindrome(lower);
     }
 
     boolean isLowerPalindrome(String s) {
-        int right = s.length() - 1;
-        for (int left = 0; left < s.length() / 2; left++) {
-            if (s.charAt(left) != s.charAt(right)) return false;
-            right --;
+        int r = s.length() - 1;
+        for (int l = 0; l < s.length() / 2; l++) {
+            if (s.charAt(l) != s.charAt(r)) return false;
+            r --;
         }
         return true;
     }
