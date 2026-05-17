@@ -2,11 +2,11 @@ class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         int n = temperatures.length;
         int[] res = new int[n];
-
         Stack<int[]> stack = new Stack<>();
+        // temperature, index
         for (int i = 0; i < n; i++) {
             int t = temperatures[i];
-            while (!stack.isEmpty() && stack.peek()[0] < t) {
+            while(!stack.isEmpty() && t > stack.peek()[0]) {
                 int[] pair = stack.pop();
                 res[pair[1]] = i - pair[1];
             }
