@@ -2,8 +2,6 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] A = nums1;
         int[] B = nums2;
-        int total = A.length + B.length;
-        int half = (total + 1) / 2;
 
         if (B.length < A.length) {
             int[] temp = A;
@@ -13,8 +11,11 @@ class Solution {
 
         int l = 0;
         int r = A.length;
+        int total = A.length + B.length;
+        int half = (total + 1) / 2;
+
         while (l <= r) {
-            int i = (l + r) / 2;
+            int i = (r + l) / 2;
             int j = half - i;
 
             int Aleft = i > 0 ? A[i - 1] : Integer.MIN_VALUE;
@@ -22,7 +23,6 @@ class Solution {
             int Bleft = j > 0 ? B[j - 1] : Integer.MIN_VALUE;
             int Bright = j < B.length ? B[j] : Integer.MAX_VALUE;
 
-            // Partition is correct
             if (Aleft <= Bright && Bleft <= Aright) {
                 if (total % 2 != 0) {
                     return Math.max(Aleft, Bleft);
