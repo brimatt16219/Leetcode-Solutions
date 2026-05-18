@@ -6,11 +6,11 @@ class Solution {
 
         while (l <= r) {
             int k = (l + r) / 2;
-
             long totalTime = 0;
             for (int p : piles) {
-                totalTime += Math.ceil((double) p / k);
+                totalTime += Math.ceil((double)p / k);
             }
+
             if (totalTime <= h) {
                 res = k;
                 r = k - 1;
