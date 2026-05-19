@@ -10,7 +10,7 @@ class Solution {
             int lastEnd = output.get(output.size() - 1)[1];
 
             if (start <= lastEnd) {
-                output.get(output.size() - 1)[1] = Math.max(lastEnd, end);
+                output.get(output.size() - 1)[1] = Math.max(end, lastEnd);
             }
             else {
                 output.add(new int[]{start, end});
