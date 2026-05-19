@@ -1,37 +1,32 @@
 class Solution {
 
-    int[] dy = {0 , -1, 1, 0};
-    int[] dx = {1, 0, 0, -1};
-
-    int[][] visited;
+    private static final int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
     public int numIslands(char[][] grid) {
-        
-        visited = new int[grid.length][grid[0].length];
+        int ROWS = grid.length;
+        int COLS = grid[0].length;
 
         int islands = 0;
-        
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[0].length; j++) {
-                if (grid[i][j] == '1' && visited[i][j] == 0) {
+        for (int i = 0; i < ROWS; i++) {
+            for (int j = 0; j < COLS; j++) {
+                if (grid[i][j] == '1') {
+                    dfs(grid, i, j);
                     islands++;
-                    dfs(i, j, grid);
                 }
             }
         }
         return islands;
     }
 
-    void dfs(int r, int c, char[][] grid) {
-        if (r < 0 || c < 0 || r >= visited.length || c >= visited[0].length || visited[r][c] == 1) return;
-        visited[r][c] = 1;
-
-        if (grid[r][c] == '0') return;
-
+    public void dfs(char[][] grid, int r, int c) {
+        if (r < 0 || c < 0 || r >= grid.length || c >= grid[0].length || grid[r][c] == '0') {
+            return;
+        }
+        grid[r][c] = '0';
         for (int i = 0; i < 4; i++) {
-            int dr = dy[i] + r;
-            int dc = dx[i] + c;
-            dfs(dr, dc, grid);
+            int dr = directions[i][0] + r;
+            int dc = directions[i][1] + c;
+            dfs(grid, dr, dc);
         }
     }
 }
