@@ -3,15 +3,16 @@ class Solution {
         int l = 0;
         int r = height.length - 1;
         int max = 0;
-        while (l < r) {
+        while (l <= r) {
             int min = Math.min(height[l], height[r]);
-            int area = min * (r - l);
-
-            max = Math.max(max, area);
+            int area = (r - l) * min;
+            max = Math.max(area, max);
             if (height[l] < height[r]) {
                 l++;
             }
-            else r--;
+            else {
+                r--;
+            }
         }
         return max;
     }
