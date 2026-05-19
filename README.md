@@ -836,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
