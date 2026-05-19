@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0252-meeting-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0252-meeting-rooms) |
 | [0269-alien-dictionary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
