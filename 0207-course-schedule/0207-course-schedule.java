@@ -1,46 +1,33 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        
-        List<Integer>[] preMap = new ArrayList[numCourses];
+        int[] indegree = new int[numCourses];
+        List<List<Integer>> adj = new ArrayList<>();
         for (int i = 0; i < numCourses; i++) {
-            preMap[i] = new ArrayList<>();
+            adj.add(new ArrayList<>());
         }
-        for (int[] pair : prerequisites) {
-            preMap[pair[0]].add(pair[1]);
+        for (int[] pre : prerequisites) {
+            indegree[pre[1]]++;
+            adj.get(pre[0]).add(pre[1]);
         }
 
-        boolean[] visiting = new boolean[numCourses];
-        boolean[] checked = new boolean[numCourses];
-
-        class DFS {
-            boolean dfs(int c) {
-                if (visiting[c]) {
-                    return false;
-                } 
-                if (checked[c]) {
-                    return true;
-                }
-
-                visiting[c] = true;
-                for (int pre : preMap[c]) {
-                    if (!dfs(pre)) {
-                        return false;
-                    }
-                }
-
-                visiting[c] = false;
-                checked[c] = true;
-                return true;
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                q.add(i);
             }
         }
 
-        DFS helper = new DFS();
-
-        for (int course = 0; course < numCourses; course++) {
-            if (!helper.dfs(course)) {
-                return false;
+        int finish = 0;
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            finish++;
+            for (int nei : adj.get(node)) {
+                indegree[nei]--;
+                if (indegree[nei] == 0) {
+                    q.add(nei);
+                }
             }
         }
-        return true;
+        return finish == numCourses;
     }
 }
