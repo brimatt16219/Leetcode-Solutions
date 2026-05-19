@@ -1,15 +1,15 @@
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
-        HashMap<Character, Character> closeToOpen = new HashMap<>();
+        Map<Character, Character> map = new HashMap<>();
 
-        closeToOpen.put(')', '(');
-        closeToOpen.put(']', '[');
-        closeToOpen.put('}', '{');
+        map.put(')', '(');
+        map.put(']', '[');
+        map.put('}', '{');
 
         for (char c : s.toCharArray()) {
-            if (closeToOpen.containsKey(c)) {
-                if (!stack.isEmpty() && stack.peek() == closeToOpen.get(c)) {
+            if (map.containsKey(c)) {
+                if (!stack.isEmpty() && stack.peek() == map.get(c)) {
                     stack.pop();
                 }
                 else {
