@@ -842,4 +842,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
