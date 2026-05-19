@@ -7,8 +7,8 @@ class Solution {
         for (int[] interval : intervals) {
             int start = interval[0];
             int end = interval[1];
-
             int lastEnd = output.get(output.size() - 1)[1];
+
             if (start <= lastEnd) {
                 output.get(output.size() - 1)[1] = Math.max(lastEnd, end);
             }
