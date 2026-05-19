@@ -1,63 +1,70 @@
+public class Node {
+    int key;
+    int val;
+    Node prev;
+    Node next;
+
+    public Node(int key, int val) {
+        this.key = key;
+        this.val = val;
+        this.prev = null;
+        this.next = null;
+    }
+}
+
 class LRUCache {
 
-    private static class Node {
-        int key, val;
-        Node prev, next;
-        Node(int k, int v) {
-            key = k;
-            val = v;
-        }
-    }
-    private int capacity;
-    private Map<Integer, Node> cache;
-    private Node head, tail;
+    private int cap;
+    private HashMap<Integer, Node> cache;
+    private Node left;
+    private Node right;
 
     public LRUCache(int capacity) {
-        this.capacity = capacity;
+        this.cap = capacity;
         this.cache = new HashMap<>();
-        head = new Node(0, 0);
-        tail = new Node(0, 0);
-        head.next = tail;
-        tail.prev = head;
+        this.left = new Node(0, 0);
+        this.right = new Node(0, 0);
+        this.left.next = this.right;
+        this.right.prev = this.left;
     }
 
     public void remove(Node node) {
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
+        Node prev = node.prev;
+        Node nxt = node.next;
+        prev.next = nxt;
+        nxt.prev = prev;
     }
 
     public void insert(Node node) {
-        node.prev = tail.prev;
-        node.next = tail;
-        tail.prev.next = node;
-        tail.prev = node;
+        Node prev = this.right.prev;
+        prev.next = node;
+        node.prev = prev;
+        node.next = this.right;
+        this.right.prev = node;
     }
     
     public int get(int key) {
-        Node node = cache.get(key);
-        if (node == null) return -1;
-
-        remove(node);
-        insert(node);
-        return node.val;
+        if (cache.containsKey(key)) {
+            Node node = cache.get(key);
+            remove(node);
+            insert(node);
+            return node.val;
+        }
+        return -1;
     }
     
     public void put(int key, int value) {
         if (cache.containsKey(key)) {
-            Node existing = cache.get(key);
-            existing.val = value;
-            remove(existing);
-            insert(existing);
+            remove(cache.get(key));
         }
-        else {
-            Node node = new Node(key, value);
-            cache.put(key, node);
-            insert(node);
-            if (cache.size() > capacity) {
-                Node lru = head.next;
-                remove(lru);
-                cache.remove(lru.key);
-            }
+        Node newNode = new Node(key, value);
+        cache.put(key, newNode);
+        insert(newNode);
+
+        if (cache.size() > cap) {
+            Node lru = this.left.next;
+            remove(lru);
+            cache.remove(lru.key);
         }
     }
 }
