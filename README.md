@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0658-find-k-closest-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
@@ -675,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -754,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Graph
 |  |
