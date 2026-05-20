@@ -28,12 +28,7 @@ class Solution {
             i++;
         }
         parsed *= sign;
-        if (parsed >= Integer.MAX_VALUE) {
-            return Integer.MAX_VALUE;
-        }
-        else if (parsed <= Integer.MIN_VALUE) {
-            return Integer.MIN_VALUE;
-        }
+
         return (int) parsed;
     }
 }
