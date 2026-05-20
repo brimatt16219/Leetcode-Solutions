@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0978-valid-mountain-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0978-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
