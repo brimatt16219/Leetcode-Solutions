@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -770,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0271-encode-and-decode-strings](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0271-encode-and-decode-strings) |
+| [0295-find-median-from-data-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0588-design-in-memory-file-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -780,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
