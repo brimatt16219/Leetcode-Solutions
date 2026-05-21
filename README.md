@@ -902,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
