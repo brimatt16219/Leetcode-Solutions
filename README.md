@@ -727,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1603-design-parking-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -757,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1603-design-parking-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1603-design-parking-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2139-detect-squares](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2139-detect-squares) |
 | [2169-simple-bank-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 ## Data Stream
