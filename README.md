@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1603-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
