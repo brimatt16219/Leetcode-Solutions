@@ -1,5 +1,15 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        return haystack.indexOf(needle);
+        if (!haystack.contains(needle)) return -1;
+        if (haystack.equals(needle)) return 0;
+
+        int i = 0;
+        int k = needle.length();
+        for (i = 0; i < haystack.length() - k + 1; i++) {
+            if (haystack.substring(i, i + k).equals(needle)) {
+                return i;
+            }
+        }
+        return -1;
     }
 }
