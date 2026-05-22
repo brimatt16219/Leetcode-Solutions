@@ -1,7 +1,6 @@
 class Solution {
     public int strStr(String haystack, String needle) {
         if (!haystack.contains(needle)) return -1;
-        // if (haystack.equals(needle)) return 0;
 
         int i = 0;
         int k = needle.length();
