@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
