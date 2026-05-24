@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2388-replace-elements-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -812,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
