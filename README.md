@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1268-search-suggestions-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1306-jump-game-iii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -648,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
