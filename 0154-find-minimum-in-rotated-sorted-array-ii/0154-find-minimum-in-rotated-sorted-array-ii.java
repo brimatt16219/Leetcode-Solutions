@@ -12,16 +12,10 @@ class Solution {
 
             int m = l + (r - l) / 2;
             res = Math.min(res, nums[m]);
-            if (nums[m] > nums[l]) {
+            if ((nums[m] > nums[l]) || (nums[m] == nums[l] && nums[m] != nums[r])) {
                 l = m + 1;
             }
-            else if (nums[m] < nums[r]){ // 6 7 1 2 3 4 5
-                r = m - 1;
-            }
-            else if (nums[m] == nums[l] && nums[m] != nums[r]) {
-                l = m + 1;
-            }
-            else if (nums[m] == nums[r] && nums[m] != nums[l]) {
+            else if ((nums[m] < nums[r]) || (nums[m] == nums[r] && nums[m] != nums[l])){ // 6 7 1 2 3 4 5
                 r = m - 1;
             }
             else { // nums[l] == nums[m] == nums[r]
