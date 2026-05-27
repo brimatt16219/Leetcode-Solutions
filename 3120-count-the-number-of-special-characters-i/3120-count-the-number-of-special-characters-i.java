@@ -13,7 +13,6 @@ class Solution {
                 res++;
             }
             set.add(c);
-            System.out.println(set);
         }
         return res;
     }
