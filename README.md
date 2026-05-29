@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3649-number-of-perfect-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
