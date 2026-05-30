@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3093-longest-common-suffix-queries](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-percentage-of-letter-in-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -920,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0588-design-in-memory-file-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [1268-search-suggestions-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 ## Shortest Path
 |  |
 | ------- |
