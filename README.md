@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3148-maximum-difference-score-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3649-number-of-perfect-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3649-number-of-perfect-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 ## String
 |  |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -740,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3649-number-of-perfect-pairs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3649-number-of-perfect-pairs) |
 ## Recursion
 |  |
