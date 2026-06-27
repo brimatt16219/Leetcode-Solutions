@@ -27,7 +27,7 @@ class Solution {
             if (freq.getOrDefault(cur, 0) >= 1) {
                 length += 1;  // valid center
             } else if (length > 0) {
-                length -= 1;  // ✅ drop one from the outermost pair, use it as center
+                length -= 1;  // drop one from the outermost pair, use it as center
             } else {
                 length = 1;   // x itself appears 0 times somehow, skip
             }
