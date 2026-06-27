@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-longest-common-suffix-queries](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -961,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2889-number-of-black-blocks](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2889-number-of-black-blocks) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Database
 |  |
 | ------- |
