@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-find-the-highest-altitude](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1972-rotating-the-box) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -743,6 +745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1268-search-suggestions-system](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
