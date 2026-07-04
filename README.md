@@ -650,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2206-detonate-the-maximum-bombs](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2344-escape-the-spreading-fire](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
@@ -989,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
 |  |
@@ -999,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/brimatt16219/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Randomized
 |  |
